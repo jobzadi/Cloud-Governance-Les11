@@ -1,5 +1,5 @@
 # ITIL4
-> Geschreven door Job Zadi.
+> Geschreven door Job Zadi
 
 ITIL 4 is een standaard voor IT-service management (ITSM) en is mede
 ontwikkeld door AXELOS. Het is de nieuwste versie van ITIL en is
@@ -33,7 +33,7 @@ het gemakkelijker voor organisaties om ITIL te implementeren,
 ongeacht hun grootte of branche.
 > (Bron: https://www.axelos.com)
 
-Hier een Youtube filmpje dat ITIL4 kort beschrijft [The ITIL 4 Big Picture: Connecting Key Concepts](https://www.youtube.com/watch?v=1ZqhiwEAtTA)
+Hier een Youtube filmpje dat ITIL4 kort beschrijft: [The ITIL 4 Big Picture: Connecting Key Concepts](https://www.youtube.com/watch?v=1ZqhiwEAtTA)
 
 ## Hoe kan ITIL4 nuttig zijn in bijvoorbeeld cloud processen, componenten en diensten
 
