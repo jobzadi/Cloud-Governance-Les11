@@ -1,6 +1,6 @@
 # ITIL4
 
-ITIL 4 is een standaard voor IT-service management (ITSM) en is
+ITIL 4 is een standaard voor IT-service management (ITSM) en is mede
 ontwikkeld door AXELOS. Het is de nieuwste versie van ITIL en is
 bedoeld om bedrijven te helpen bij het beheren van hun IT-services.
 Het biedt een gedetailleerd framework voor hoe IT-services moeten
@@ -30,6 +30,8 @@ Daarnaast biedt ITIL 4 een flexibele aanpak, waardoor het kan worden
 toegepast op de specifieke behoeften van een organisatie. Dit maakt
 het gemakkelijker voor organisaties om ITIL te implementeren,
 ongeacht hun grootte of branche.
+
+<ifframe width="560" height="315: src="https://www.youtube.com/watch?v=1ZqhiwEAtTA">
 
 (Bron: https://www.axelos.com)
 
