@@ -1,10 +1,8 @@
 # ITIL4
 > Geschreven door Job Zadi
 
-ITIL 4 is een standaard voor IT-service management (ITSM) en is mede
-ontwikkeld door AXELOS. Het is de nieuwste versie van ITIL en is
-bedoeld om bedrijven te helpen bij het beheren van hun IT-services.
-Het biedt een gedetailleerd framework voor hoe IT-services moeten
+ITIL 4 is een standaard voor IT-service management (ITSM) dat mede is ontwikkeld door AXELOS. Het is de nieuwste versie van ITIL en is
+bedoeld om bedrijven te helpen bij het beheren van hun IT-services. Het biedt een gedetailleerd framework voor hoe IT-services moeten
 worden geleverd, beheerd en verbeterd.
 
 ITIL 4 heeft een aantal belangrijke verbeteringen ten opzichte van de
@@ -36,15 +34,15 @@ ongeacht hun grootte of branche.
 ## Hoe kan ITIL4 nuttig zijn in bijvoorbeeld cloud processen, componenten en diensten
 
 
-ITIL4 kan nuttig zijn bij cloudprocessen, componenten en diensten door het aanbieden van structuren voor het beheer en de levering van IT-diensten in de cloud. Hierdoor kunnen IT-afdelingen een efficiëntere en effectievere manier van werken hanteren, en kan de organisatie beter inspelen op de veranderende eisen binnen de IT-wereld.
+ITIL4 kan bruikbaar zijn bij cloudprocessen, componenten en diensten door het aanbieden van structuren voor het beheer en de levering van IT-diensten in de cloud. Hierdoor kunnen IT-afdelingen een efficiëntere en effectievere manier van werken hanteren, en kan de organisatie beter inspelen op de veranderende eisen binnen de IT-wereld.
 
-ITIL 4 biedt bijvoorbeeld richtlijnen voor het beheer van cloud-gebaseerde diensten, zoals het beheer van beschikbaarheid, capaciteit, beveiliging en compliance. Het biedt ook richtlijnen voor het beheer van de relatie met de cloud-leverancier, zoals contractbeheer en leveranciersbeoordeling.
+Zo biedt ITIL4 bijvoorbeeld richtlijnen voor het beheer van cloud-gebaseerde diensten, zoals het beheer van beschikbaarheid, capaciteit, beveiliging en compliance. Het biedt ook richtlijnen voor het beheer van de relatie met de cloud-leverancier, zoals contractbeheer en leveranciersbeoordeling.
 
 > (Bronnen: https://www.axelos.com/best-practice-solutions/itil https://www.itgovernance.co.uk/blog/itil-4-and-cloud-computing-how-they-complement-each-other)
 
 ## Omvat ITIL4 alle governance aspects
 
-ITIL 4 omvat veel van de governance aspecten die van toepassing zijn op IT-service management, zoals richtlijnen voor het beheer van IT-diensten, contracten met leveranciers, compliance, en het verbeteren en veranderen van de prestaties van IT-diensten.
+ITIL 4 omvat veel van de governance aspecten die van toepassing zijn op IT-service management, zoals richtlijnen voor het beheer van IT-diensten, contracten met leveranciers, compliance, en het verbeteren en veranderen van IT prestaties.
 
 Ondanks dat ITIL4 veel dingen goed doet wat betreft governance,  is het geen volledig governance framework. ITIL4 richt zich specifiek op IT-services management en de levering van IT-diensten en kan niet worden beschouwd als een vervanging van bestaande governance standaarden zoals COBIT of ISO/IEC 38500. Daarom wordt het vaak geadviseerd om ITIL4 in combinatie met andere governance standaarden te gebruiken. Zoals, COBIT of ISO/IEC 38500.
 
