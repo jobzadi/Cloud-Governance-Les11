@@ -1,5 +1,5 @@
 # ITIL4
-[^1]:Geschreven door Job Zadi.
+> Geschreven door Job Zadi.
 
 ITIL 4 is een standaard voor IT-service management (ITSM) en is mede
 ontwikkeld door AXELOS. Het is de nieuwste versie van ITIL en is
@@ -31,19 +31,18 @@ Daarnaast biedt ITIL 4 een flexibele aanpak, waardoor het kan worden
 toegepast op de specifieke behoeften van een organisatie. Dit maakt
 het gemakkelijker voor organisaties om ITIL te implementeren,
 ongeacht hun grootte of branche.
+> (Bron: https://www.axelos.com)
 
-<ifframe width="560" height="315: src="https://www.youtube.com/watch?v=1ZqhiwEAtTA">
+Hier een Youtube filmpje dat ITIL4 kort beschrijft [The ITIL 4 Big Picture: Connecting Key Concepts](https://www.youtube.com/watch?v=1ZqhiwEAtTA)
 
-(Bron: https://www.axelos.com)
-
-# Hoe kan ITIL4 nuttig zijn in bijvoorbeeld cloud processen, componenten en diensten
+## Hoe kan ITIL4 nuttig zijn in bijvoorbeeld cloud processen, componenten en diensten
 
 
 ITIL4 kan nuttig zijn bij cloudprocessen, componenten en diensten door het aanbieden van structuren voor het beheer en de levering van IT-diensten in de cloud. Hierdoor kunnen IT-afdelingen een efficiëntere en effectievere manier van werken hanteren, en kan de organisatie beter inspelen op de veranderende eisen binnen de IT-wereld.
 
 ITIL 4 biedt bijvoorbeeld richtlijnen voor het beheer van cloud-gebaseerde diensten, zoals het beheer van beschikbaarheid, capaciteit, beveiliging en compliance. Het biedt ook richtlijnen voor het beheer van de relatie met de cloud-leverancier, zoals contractbeheer en leveranciersbeoordeling.
 
-(Bronnen: https://www.axelos.com/best-practice-solutions/itil https://www.itgovernance.co.uk/blog/itil-4-and-cloud-computing-how-they-complement-each-other)
+> (Bronnen: https://www.axelos.com/best-practice-solutions/itil https://www.itgovernance.co.uk/blog/itil-4-and-cloud-computing-how-they-complement-each-other)
 
 ## Omvat ITIL4 alle governance aspects
 
@@ -51,7 +50,7 @@ ITIL 4 omvat veel van de governance aspecten die van toepassing zijn op IT-servi
 
 Ondanks dat ITIL4 veel dingen goed doet wat betreft governance,  is het geen volledig governance framework. ITIL4 richt zich specifiek op IT-services management en de levering van IT-diensten en kan niet worden beschouwd als een vervanging van bestaande governance standaarden zoals COBIT of ISO/IEC 38500. Daarom wordt het vaak geadviseerd om ITIL4 in combinatie met andere governance standaarden te gebruiken. Zoals, COBIT of ISO/IEC 38500.
 
-(Bronnen: https://www.axelos.com/best-practice-solutions/itil][https://www.itgovernance.co.uk/blog/itil-4-and-governance-how-they-work-together https://www.itgovernance.co.uk/blog/itil-4-and-iso-38500-how-they-complement-each-other)
+> (Bronnen: https://www.axelos.com/best-practice-solutions/itil][https://www.itgovernance.co.uk/blog/itil-4-and-governance-how-they-work-together https://www.itgovernance.co.uk/blog/itil-4-and-iso-38500-how-they-complement-each-other)
 
 ## Sterke & minder sterke punten van ITIL4
 
@@ -68,7 +67,7 @@ Minder sterke punten van ITIL 4:
 -   ITIL 4 kan voor sommige organisaties te algemeen zijn, en niet specifiek genoeg zijn.
 -   Het implementeren van ITIL4 kan veel tijd en geld kosten
 
-(Bronnen: https://www.axelos.com/best-practice-solutions/itil https://www.itgovernance.co.uk/blog/itil-4-pros-and-cons-should-you-upgrade https://www.itgovernance.co.uk/blog/itil-4-adoption-best-practice-approach)
+> (Bronnen: https://www.axelos.com/best-practice-solutions/itil https://www.itgovernance.co.uk/blog/itil-4-pros-and-cons-should-you-upgrade https://www.itgovernance.co.uk/blog/itil-4-adoption-best-practice-approach)
 
 ## Gebruiken de grote publieke cloud providers zoals AWS, Azure en Google Cloud het ITIL4 framework
 
@@ -76,4 +75,4 @@ De grote publieke cloud providers zoals AWS, Azure en Google Cloud gebruiken het
 
 Ondanks dat de grote cloud providers ITIL 4 niet gebruiken, kunnen deze wel worden toegepast op de diensten die deze providers aanbieden. Zo bieden AWS, Azure en Google Cloud bijvoorbeeld wel processen aan voor incidentmanagement, problem management en change management die vergelijkbaar zijn met ITIL 4.
 
-(Bronnen: https://aws.amazon.com/it-service-management/ https://azure.com/it-[https://cloud.google.com/it-service-management https://cloud.google.com/it-service-management/)
+> (Bronnen: https://aws.amazon.com/it-service-management/ https://azure.com/it-[https://cloud.google.com/it-service-management https://cloud.google.com/it-service-management/)
