@@ -33,8 +33,6 @@ het gemakkelijker voor organisaties om ITIL te implementeren,
 ongeacht hun grootte of branche.
 > (Bron: https://www.axelos.com)
 
-Hier een Youtube filmpje dat ITIL4 kort beschrijft: [The ITIL 4 Big Picture: Connecting Key Concepts](https://www.youtube.com/watch?v=1ZqhiwEAtTA)
-
 ## Hoe kan ITIL4 nuttig zijn in bijvoorbeeld cloud processen, componenten en diensten
 
 
@@ -50,7 +48,7 @@ ITIL 4 omvat veel van de governance aspecten die van toepassing zijn op IT-servi
 
 Ondanks dat ITIL4 veel dingen goed doet wat betreft governance,  is het geen volledig governance framework. ITIL4 richt zich specifiek op IT-services management en de levering van IT-diensten en kan niet worden beschouwd als een vervanging van bestaande governance standaarden zoals COBIT of ISO/IEC 38500. Daarom wordt het vaak geadviseerd om ITIL4 in combinatie met andere governance standaarden te gebruiken. Zoals, COBIT of ISO/IEC 38500.
 
-> (Bronnen: https://www.axelos.com/best-practice-solutions/itil][https://www.itgovernance.co.uk/blog/itil-4-and-governance-how-they-work-together https://www.itgovernance.co.uk/blog/itil-4-and-iso-38500-how-they-complement-each-other)
+> (Bronnen: https://www.axelos.com/best-practice-solutions/itil https://www.itgovernance.co.uk/blog/itil-4-and-governance-how-they-work-together https://www.itgovernance.co.uk/blog/itil-4-and-iso-38500-how-they-complement-each-other)
 
 ## Sterke & minder sterke punten van ITIL4
 
@@ -76,3 +74,5 @@ De grote publieke cloud providers zoals AWS, Azure en Google Cloud gebruiken het
 Ondanks dat de grote cloud providers ITIL 4 niet gebruiken, kunnen deze wel worden toegepast op de diensten die deze providers aanbieden. Zo bieden AWS, Azure en Google Cloud bijvoorbeeld wel processen aan voor incidentmanagement, problem management en change management die vergelijkbaar zijn met ITIL 4.
 
 > (Bronnen: https://aws.amazon.com/it-service-management/ https://azure.com/it-[https://cloud.google.com/it-service-management https://cloud.google.com/it-service-management/)
+
+Hier een Youtube filmpje dat ITIL4 kort beschrijft: [The ITIL 4 Big Picture: Connecting Key Concepts](https://www.youtube.com/watch?v=1ZqhiwEAtTA)
