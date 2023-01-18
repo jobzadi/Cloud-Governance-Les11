@@ -1,4 +1,5 @@
 # ITIL4
+[^1]: Geschreven door Job Zadi.
 
 ITIL 4 is een standaard voor IT-service management (ITSM) en is mede
 ontwikkeld door AXELOS. Het is de nieuwste versie van ITIL en is
