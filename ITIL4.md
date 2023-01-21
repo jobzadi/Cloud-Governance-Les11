@@ -25,10 +25,10 @@ voor het beheer van IT-services. Hierdoor kan het een organisatie
 helpen bij het verbeteren van hun IT-services, hun klanttevredenheid
 en hun bedrijfsresultaten.
 
-Daarnaast biedt ITIL 4 een flexibele aanpak, waardoor het kan worden
-toegepast op de specifieke behoeften van een organisatie. Dit maakt
-het gemakkelijker voor organisaties om ITIL te implementeren,
-ongeacht hun grootte of branche.
+Daarnaast biedt ITIL 4 een flexibele aanpak, hierdoor kan het makkelijk 
+toegepast worden op de specifieke behoeften van een organisatie. Dit alles maakt
+het makkelijker voor organisaties om ITIL te implementeren,
+ongeacht hun grootte of bedrijfstak.
 > (Bron: https://www.axelos.com)
 
 ## Hoe kan ITIL4 nuttig zijn in bijvoorbeeld cloud processen, componenten en diensten
